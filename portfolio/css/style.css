@@ -47,7 +47,7 @@ section {
 }
 
 .sect1 {
-  background-image: url(/portfolio/images/sect1-bg.jpg);
+  background-image: url(../images/sect1-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
@@ -139,7 +139,7 @@ section {
 
 .sect4 {
   height: 100vh;
-  background-image: url(/portfolio/images/sect4-bg.jpg);
+  background-image: url(../images/sect4-bg.jpg);
   text-align: center;
   color: #fff;
 }

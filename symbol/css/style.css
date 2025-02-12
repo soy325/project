@@ -47,7 +47,7 @@ section {
 }
 
 .sect1 {
-  background-image: url(/SYMBOL/images/sect1-bg.jpg);
+  background-image: url(../images/sect1-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
@@ -141,7 +141,7 @@ section {
 }
 
 .sect4 {
-  background-image: url(/SYMBOL/images/sect4-bg.jpg);
+  background-image: url(../images/sect4-bg.jpg);
   background-repeat: no-repeat;
   text-align: center;
   color: #fff;
@@ -269,7 +269,7 @@ section {
 }
 
 .sect6 {
-  background-image: url(/SYMBOL/images/card.jpg);
+  background-image: url(../images/card.jpg);
   height: 100vh;
   background-repeat: no-repeat;
 }
