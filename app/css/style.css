@@ -171,7 +171,7 @@ section {
   height: 70vh;
   text-align: center;
   overflow: visible;
-  background-image: url(/APP/images/bg1.jpg);
+  background-image: url(../images/bg1.jpg);
   background-size: cover;
 }
 .sect9 .sect9-inner {
